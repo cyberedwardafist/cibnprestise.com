@@ -76,4 +76,3 @@ CIBN PRESTISE mengumpulkan materi, e-book, ujian, jadwal belajar, dan pembayaran
 ## Link
 
 [www.cibnprestise.com](https://www.cibnprestise.com)
-"# CIBN_PRESTISE" 
